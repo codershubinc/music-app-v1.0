@@ -1,0 +1,329 @@
+{
+    "success": true,
+    "data": {
+        "topQuery": {
+            "results": [
+                {
+                    "id": "459320",
+                    "title": "Arijit Singh",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Arijit_Singh_002_20230323062147_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Arijit_Singh_002_20230323062147_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Arijit_Singh_002_20230323062147_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "description": "Artist"
+                }
+            ],
+            "position": 0
+        },
+        "songs": {
+            "results": [
+                {
+                    "id": "aRZbUYD7",
+                    "title": "Tum Hi Ho",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg"
+                        }
+                    ],
+                    "album": "Aashiqui 2",
+                    "url": "https://www.jiosaavn.com/song/tum-hi-ho/EToxUyFpcwQ",
+                    "type": "song",
+                    "description": "Aashiqui 2 · Mithoon, Arijit Singh",
+                    "primaryArtists": "Mithoon, Arijit Singh",
+                    "singers": "Arijit Singh",
+                    "language": "hindi"
+                },
+                {
+                    "id": "qZtKBMZ_",
+                    "title": "Apna Bana Le",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-500x500.jpg"
+                        }
+                    ],
+                    "album": "Bhediya",
+                    "url": "https://www.jiosaavn.com/song/apna-bana-le/ATIfejZ9bWw",
+                    "type": "song",
+                    "description": "Bhediya · Sachin-Jigar, Arijit Singh",
+                    "primaryArtists": "Sachin-Jigar, Arijit Singh",
+                    "singers": "Sachin-Jigar, Arijit Singh",
+                    "language": "hindi"
+                },
+                {
+                    "id": "7yi1WSmH",
+                    "title": "Soulmate",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/406/Ek-Tha-Raja-Hindi-2024-20240318125601-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/406/Ek-Tha-Raja-Hindi-2024-20240318125601-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/406/Ek-Tha-Raja-Hindi-2024-20240318125601-500x500.jpg"
+                        }
+                    ],
+                    "album": "Ek Tha Raja",
+                    "url": "https://www.jiosaavn.com/song/soulmate/RxECACNjWns",
+                    "type": "song",
+                    "description": "Ek Tha Raja · Badshah, Arijit Singh",
+                    "primaryArtists": "Badshah, Arijit Singh",
+                    "singers": "Badshah, Arijit Singh",
+                    "language": "hindi"
+                }
+            ],
+            "position": 2
+        },
+        "albums": {
+            "results": [
+                {
+                    "id": "12449239",
+                    "title": "Khamoshiyan (From \"Khamoshiyan\")",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/048/Khamoshiyan-From-Khamoshiyan--Hindi-2014-20200804103117-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/048/Khamoshiyan-From-Khamoshiyan--Hindi-2014-20200804103117-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/048/Khamoshiyan-From-Khamoshiyan--Hindi-2014-20200804103117-500x500.jpg"
+                        }
+                    ],
+                    "artist": "Jeet Gannguli, Arijit Singh",
+                    "url": "https://www.jiosaavn.com/album/khamoshiyan-from-khamoshiyan/TKa7wI7ePJw_",
+                    "type": "album",
+                    "description": "2014 · Hindi Film · Jeet Gannguli, Arijit Singh",
+                    "year": "2014",
+                    "songIds": "38Zn1MBh",
+                    "language": "hindi"
+                },
+                {
+                    "id": "1297075",
+                    "title": "Chal Wahan Jaate Hain",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/119/Chal-Wahan-Jaate-Hain-Hindi-2015-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/119/Chal-Wahan-Jaate-Hain-Hindi-2015-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/119/Chal-Wahan-Jaate-Hain-Hindi-2015-500x500.jpg"
+                        }
+                    ],
+                    "artist": "Arijit Singh",
+                    "url": "https://www.jiosaavn.com/album/chal-wahan-jaate-hain/dT,8GnM2olE_",
+                    "type": "album",
+                    "description": "2015 · Hindi Album · Arijit Singh",
+                    "year": "2015",
+                    "songIds": "T7YnKDPI",
+                    "language": "hindi"
+                },
+                {
+                    "id": "55303464",
+                    "title": "Munjya",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/009/Munjya-Hindi-2024-20240617102525-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/009/Munjya-Hindi-2024-20240617102525-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/009/Munjya-Hindi-2024-20240617102525-500x500.jpg"
+                        }
+                    ],
+                    "artist": "Sachin-Jigar, Amitabh Bhattacharya",
+                    "url": "https://www.jiosaavn.com/album/munjya/UQHuz7YQw7s_",
+                    "type": "album",
+                    "description": "2024 · Hindi Film · Sachin-Jigar, Amitabh Bhattacharya",
+                    "year": "2024",
+                    "songIds": "YODcTHFy, ul6G83Je, ZbJ8yt4M, e35oBFzL",
+                    "language": "hindi"
+                }
+            ],
+            "position": 3
+        },
+        "artists": {
+            "results": [
+                {
+                    "id": "702776",
+                    "title": "Pritam & Arijit Singh",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://www.jiosaavn.com/_i/3.0/artist-default-film.png"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://www.jiosaavn.com/_i/3.0/artist-default-film.png"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://www.jiosaavn.com/_i/3.0/artist-default-film.png"
+                        }
+                    ],
+                    "type": "artist",
+                    "description": "Artist",
+                    "position": 2
+                },
+                {
+                    "id": "12841161",
+                    "title": "Pritam, Arijit Singh &amp; Amitabh Bhattacharya",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://www.jiosaavn.com/_i/3.0/artist-default-music.png"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://www.jiosaavn.com/_i/3.0/artist-default-music.png"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://www.jiosaavn.com/_i/3.0/artist-default-music.png"
+                        }
+                    ],
+                    "type": "artist",
+                    "description": "Singer",
+                    "position": 3
+                },
+                {
+                    "id": "702527",
+                    "title": "Jeet Gannguli & Arijit Singh",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://www.jiosaavn.com/_i/3.0/artist-default-music.png"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://www.jiosaavn.com/_i/3.0/artist-default-music.png"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://www.jiosaavn.com/_i/3.0/artist-default-music.png"
+                        }
+                    ],
+                    "type": "artist",
+                    "description": "Singer",
+                    "position": 4
+                }
+            ],
+            "position": 4
+        },
+        "playlists": {
+            "results": [
+                {
+                    "id": "802336660",
+                    "title": "Arijit Singh - Sad Songs - Hindi",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/editorial/ArijitSinghSadSongsHindi_20240226083401_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/editorial/ArijitSinghSadSongsHindi_20240226083401_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/editorial/ArijitSinghSadSongsHindi_20240226083401_500x500.jpg"
+                        }
+                    ],
+                    "url": "https://www.jiosaavn.com/featured/arijit-singh-sad-songs-hindi/8RkefqkCO1huOxiEGmm6lQ__",
+                    "type": "playlist",
+                    "language": "hindi",
+                    "description": "Saavn Editor"
+                },
+                {
+                    "id": "10301457",
+                    "title": "Arijit Singh - Love Songs - Hindi ",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/editorial/ArijitSinghLoveSongsHindi_20240226083414_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/editorial/ArijitSinghLoveSongsHindi_20240226083414_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/editorial/ArijitSinghLoveSongsHindi_20240226083414_500x500.jpg"
+                        }
+                    ],
+                    "url": "https://www.jiosaavn.com/featured/arijit-singh-love-songs-hindi-/vAGc-2PQBuk_",
+                    "type": "playlist",
+                    "language": "hindi",
+                    "description": "Saavn Editor"
+                },
+                {
+                    "id": "58057412",
+                    "title": "Let's Play - Arijit Singh - Hindi",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/editorial/Let_sPlayArijitSinghHindi_20240812070403_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/editorial/Let_sPlayArijitSinghHindi_20240812070403_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/editorial/Let_sPlayArijitSinghHindi_20240812070403_500x500.jpg"
+                        }
+                    ],
+                    "url": "https://www.jiosaavn.com/featured/lets-play-arijit-singh-hindi/Iz0pi7nkjUE_",
+                    "type": "playlist",
+                    "language": "hindi",
+                    "description": "Saavn Editor"
+                }
+            ],
+            "position": 1
+        }
+    }
+}
