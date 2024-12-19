@@ -25,12 +25,7 @@ function Page() {
             setTpQre(null);
         }
     }
-    const link = async (l: string) => {
-        const data = await fetch(`https://saavn.dev/api/songs?link=${l}`)
-        const fDt = await data.json()
-        console.log(fDt?.data[0]['downloadUrl'].find((d: any) => d.quality === '320kbps')?.url);
-        navigate.push(fDt?.data[0]['downloadUrl'].find((d: any) => d.quality === '320kbps')?.url)
-    }
+    
 
     return (
         <>
